@@ -13,4 +13,4 @@
 | Lucky Numbers             | [Link](exercism/logica/lucky-numbers.md)       | [JavaScript](exercism/codigo/lucky-numbers.js) |
 | Mixed Juices              | [Link](exercism/logica/mixed-juices.md)       | [JavaScript](exercism/codigo/mixed-juices.js) |
 | Poetry Club Door Policy   | [Link](exercism/logica/poetry-club-door-policy.md)       | [JavaScript](exercism/codigo/poetry-club-door-policy.js) |
-| Vehicle Purchase          | [Link](exercism/logica/vehicle-purchase.md)      | [JavaScript](exercism/logica/vehicle-purchase.js) |
+| Vehicle Purchase          | [Link](exercism/logica/vehicle-purchase.md)      | [JavaScript](exercism/codigo/vehicle-purchase.js) |
