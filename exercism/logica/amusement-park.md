@@ -48,17 +48,17 @@ Implement a function ``ticketStatus`` that accepts the tracking object and a tic
   '0H2AZ123': null,
   '23LA9T41': 'Verena Nardi',
 };
-```
 
-```ticketStatus(tickets, 'RE90VAW7');
+
+ticketStatus(tickets, 'RE90VAW7');
 // => 'unknown ticket id'
-```
 
-```ticketStatus(tickets, '0H2AZ123');
+
+ticketStatus(tickets, '0H2AZ123');
 // => 'not sold'
-```
 
-```ticketStatus(tickets, '23LA9T41');
+
+ticketStatus(tickets, '23LA9T41');
 // => 'sold to Verena Nardi'
 ```
 
@@ -73,17 +73,17 @@ Write a function ``simpleTicketStatus`` that accepts the same arguments as ticke
   '0H2AZ123': null,
   '23LA9T41': 'Verena Nardi',
 };
-```
 
-```simpleTicketStatus(tickets, '23LA9T41');
+
+simpleTicketStatus(tickets, '23LA9T41');
 // => 'Verena Nardi'
-```
 
-```simpleTicketStatus(tickets, '0H2AZ123');
+
+simpleTicketStatus(tickets, '0H2AZ123');
 // => 'invalid ticket !!!'
-```
 
-```simpleTicketStatus(tickets, 'RE90VAW7');
+
+simpleTicketStatus(tickets, 'RE90VAW7');
 // => 'invalid ticket !!!'
 ```
 
@@ -101,19 +101,19 @@ The cashiers of the amusement park now need to check whether a visitor needs to 
     version: '2.1',
   },
 };
-```
 
-```gtcVersion(visitorNew);
+
+gtcVersion(visitorNew);
 // => '2.1'
-```
 
-```const visitorOld = {
+
+const visitorOld = {
   name: 'Verena Nardi',
   age: 45,
   ticketId: 'H32AZ123',
 };
-```
 
-```gtcVersion(visitorOld);
+
+gtcVersion(visitorOld);
 // => undefined
 ```
