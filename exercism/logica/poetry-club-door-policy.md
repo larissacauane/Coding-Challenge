@@ -52,7 +52,8 @@ The members of the poetry club are really clever. The poem mentioned before is a
 Huge hooves too
 Impatiently waits for
 Reins and harness
-Eager to leave```
+Eager to leave
+```
 When the guard recites Stands so high, you'll respond h, when the guard recites Huge hooves too, you'll respond o.
 
 Note that sometimes the guard does stylist pauses (in the form of whitespace) at the end of a line. You will need to ignore those pauses to derive the correct letter.
