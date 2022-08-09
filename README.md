@@ -1,4 +1,4 @@
-# Logic-Challenge
+# Desafios de Codificação
 Nesse repositório você encontra soluções para problemas de lógica com foco no JavaScript. Caso queira ver a parte lógica de uma resolução, clique na aba de lógica da tabela, caso contrário, é só clicar na aba código para ver a resolução.
 
 1. [Exercism](#resolvendo-problemas-do-exercism)
