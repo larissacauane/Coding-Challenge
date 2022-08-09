@@ -33,9 +33,9 @@ This function should remove the entry for the given player from the board and re
 
 ```removePlayer({ 'Dave Thomas': 0 }, 'Dave Thomas');
 // => {}
-```
 
-```removePlayer({ 'Dave Thomas': 0 }, 'Rose Fanaras');
+
+removePlayer({ 'Dave Thomas': 0 }, 'Rose Fanaras');
 // => { 'Dave Thomas': 0 }
 ```
 
