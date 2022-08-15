@@ -1,8 +1,9 @@
 # Desafios de Codificação
 Nesse repositório você encontra soluções para problemas de lógica com foco no JavaScript. Caso queira ver a parte lógica de uma resolução, clique na aba de lógica da tabela, caso contrário, é só clicar na aba código para ver a resolução.
 
-1. [Beecrowd](#resolvendo-problemas-do-beecrowd)
-2. [Exercism](#resolvendo-problemas-do-exercism)
+- [Desafios de Codificação](#desafios-de-codificação)
+  - [Resolvendo problemas do Beecrowd](#resolvendo-problemas-do-beecrowd)
+  - [Resolvendo Problemas do Exercism](#resolvendo-problemas-do-exercism)
 
 ## Resolvendo problemas do Beecrowd
 O Beecrowd é um repositório de problemas de programação. Os problemas são separados por tópicos (iniciante, ad-hoc, strings, etc) e por dificuldade, variando de 1 a 10. 
@@ -29,6 +30,7 @@ O Exercism é uma plataforma de codificação online, de código aberto e gratui
 | Lucky Numbers             | [Link](exercism/logica/lucky-numbers.md)       | [JavaScript](exercism/codigo/lucky-numbers.js) |
 | Mixed Juices              | [Link](exercism/logica/mixed-juices.md)       | [JavaScript](exercism/codigo/mixed-juices.js) |
 | Poetry Club Door Policy   | [Link](exercism/logica/poetry-club-door-policy.md)       | [JavaScript](exercism/codigo/poetry-club-door-policy.js) |
+| Space Age   | [Link](exercism/logica/space-age.md)       | [JavaScript](exercism/codigo/space-age.js) |
 | Vehicle Purchase          | [Link](exercism/logica/vehicle-purchase.md)      | [JavaScript](exercism/codigo/vehicle-purchase.js) |
 
 
