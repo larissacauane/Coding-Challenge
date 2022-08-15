@@ -1,7 +1,7 @@
 # Desafios de Codificação
 Nesse repositório você encontra soluções para problemas de lógica com foco no JavaScript. Caso queira ver a parte lógica de uma resolução, clique na aba de lógica da tabela, caso contrário, é só clicar na aba código para ver a resolução.
 
-## Resolvendo problemas do Beecrowd
+## Desafios do Beecrowd
 O Beecrowd é um repositório de problemas de programação. Os problemas são separados por tópicos (iniciante, ad-hoc, strings, etc) e por dificuldade, variando de 1 a 10. 
 
 | **Problema**              | **Lógica** | **Código** |
@@ -9,7 +9,7 @@ O Beecrowd é um repositório de problemas de programação. Os problemas são s
 |  2382         | [Link](beecrowd/logica/2382.md)     | [JavaScript](beecrowd/codigo/2382.js) |
 
 
-## Resolvendo Problemas do Exercism
+## Desafios do Exercism
 O Exercism é uma plataforma de codificação online, de código aberto e gratuita que oferece prática de código e orientação em 50 linguagens de programação diferentes.
  
 | **Problema**              | **Lógica** | **Código** |
