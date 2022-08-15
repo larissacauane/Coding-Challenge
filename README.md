@@ -1,10 +1,6 @@
 # Desafios de Codificação
 Nesse repositório você encontra soluções para problemas de lógica com foco no JavaScript. Caso queira ver a parte lógica de uma resolução, clique na aba de lógica da tabela, caso contrário, é só clicar na aba código para ver a resolução.
 
-- [Desafios de Codificação](#desafios-de-codificação)
-  - [Resolvendo problemas do Beecrowd](#resolvendo-problemas-do-beecrowd)
-  - [Resolvendo Problemas do Exercism](#resolvendo-problemas-do-exercism)
-
 ## Resolvendo problemas do Beecrowd
 O Beecrowd é um repositório de problemas de programação. Os problemas são separados por tópicos (iniciante, ad-hoc, strings, etc) e por dificuldade, variando de 1 a 10. 
 
