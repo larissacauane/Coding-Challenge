@@ -14,7 +14,6 @@ function age(planet, ageInSeconds) {
   for (let key in planetOrbitalPeriod) {
     if (planet === "earth") {
       ageInYears = ageInSeconds / planetOrbitalPeriod.earth;
-
     } else {
       ageInYears =
         ageInSeconds / planetOrbitalPeriod.earth / planetOrbitalPeriod[planet];
@@ -23,14 +22,14 @@ function age(planet, ageInSeconds) {
   return ageInYears.toFixed(2);
 }
 
-console.log(age('earth', 1000000000)); 
-console.log(age('mercury', 2134835688)); 
-console.log(age('venus', 189839836)); 
-console.log(age('mars', 2129871239)); 
-console.log(age('jupiter', 901876382)); 
-console.log(age('saturn', 2000000000)); 
-console.log(age('uranus', 1210123456)); 
-console.log(age('neptune', 1821023456)); 
+console.log(age("earth", 1000000000));
+console.log(age("mercury", 2134835688));
+console.log(age("venus", 189839836));
+console.log(age("mars", 2129871239));
+console.log(age("jupiter", 901876382));
+console.log(age("saturn", 2000000000));
+console.log(age("uranus", 1210123456));
+console.log(age("neptune", 1821023456));
 
 // ============================================
 
