@@ -9,6 +9,7 @@ O Beecrowd é um repositório de problemas de programação. Os problemas são s
 | **Problema** | **Lógica**                      | **Código**                            |
 | ------------ | ------------------------------- | ------------------------------------- |
 | 2382         | [Link](beecrowd/logica/2382.md) | [JavaScript](beecrowd/codigo/2382.js) |
+| 3047         | [Link](beecrowd/logica/3047.md) | [JavaScript](beecrowd/codigo/3047.js) |
 
 ## Desafios do Exercism
 
