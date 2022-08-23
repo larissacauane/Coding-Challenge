@@ -29,4 +29,5 @@ O Exercism é uma plataforma de codificação online, de código aberto e gratui
 | Mixed Juices              | [Link](exercism/logica/mixed-juices.md)             | [JavaScript](exercism/codigo/mixed-juices.js)             |
 | Poetry Club Door Policy   | [Link](exercism/logica/poetry-club-door-policy.md)  | [JavaScript](exercism/codigo/poetry-club-door-policy.js)  |
 | Space Age                 | [Link](exercism/logica/space-age.md)                | [JavaScript](exercism/codigo/space-age.js)                |
+| Two Fer                   | [Link](exercism/logica/two-fer.md)                  | [JavaScript](exercism/codigo/two-fer.js)                  |
 | Vehicle Purchase          | [Link](exercism/logica/vehicle-purchase.md)         | [JavaScript](exercism/codigo/vehicle-purchase.js)         |
