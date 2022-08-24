@@ -25,6 +25,7 @@ O Exercism é uma plataforma de codificação online, de código aberto e gratui
 | Freelancer Rates          | [Link](exercism/logica/freelancer-rates.md)         | [JavaScript](exercism/codigo/freelancer-rates.js)         |
 | High Score Board          | [Link](exercism/logica/high-score-board.md)         | [JavaScript](exercism/codigo/high-score-board.js)         |
 | Lasagna Master            | [Link](exercism/logica/lasagna-master.md)           | [JavaScript](exercism/codigo/lasagna-master.js)           |
+| Leap Year                 | [Link](exercism/logica/leap-year.md)                | [JavaScript](exercism/codigo/leap-year.js)                |
 | Lucian's Luscious Lasagna | [Link](exercism/logica/lucians-luscious-lasagna.md) | [JavaScript](exercism/codigo/lucians-luscious-lasagna.js) |
 | Lucky Numbers             | [Link](exercism/logica/lucky-numbers.md)            | [JavaScript](exercism/codigo/lucky-numbers.js)            |
 | Mixed Juices              | [Link](exercism/logica/mixed-juices.md)             | [JavaScript](exercism/codigo/mixed-juices.js)             |
