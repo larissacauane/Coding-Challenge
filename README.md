@@ -21,7 +21,8 @@ O Exercism é uma plataforma de codificação online, de código aberto e gratui
 | Annalyn's Infiltration    | [Link](exercism/logica/annalyns-infiltration.md)    | [JavaScript](exercism/codigo/annalyns-infiltration.js)    |
 | Bird watcher              | [Link](exercism/logica/bird-watcher.md)             | [JavaScript](exercism/codigo/bird-watcher.js)             |
 | Custom Signs              | [Link](exercism/logica/custom-signs.md)             | [JavaScript](exercism/codigo/custom-signs.js)             |
-| Elyses Enchantments       | [Link](exercism/logica/elyses-enchantments.md)      | [JavaScript](exercism/codigo/bird-watcher.js)             |
+| Elyses Destructured Enchantments| [Link](exercism/logica/elyses-destructured-enchantments.md)      | [JavaScript](exercism/codigo/elyses-destructured-enchantments.js)             |
+| Elyses Enchantments       | [Link](exercism/logica/elyses-enchantments.md)      | [JavaScript](exercism/codigo/elyses-enchantments.js)  
 | Freelancer Rates          | [Link](exercism/logica/freelancer-rates.md)         | [JavaScript](exercism/codigo/freelancer-rates.js)         |
 | High Score Board          | [Link](exercism/logica/high-score-board.md)         | [JavaScript](exercism/codigo/high-score-board.js)         |
 | Lasagna Master            | [Link](exercism/logica/lasagna-master.md)           | [JavaScript](exercism/codigo/lasagna-master.js)           |
