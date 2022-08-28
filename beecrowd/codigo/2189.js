@@ -13,7 +13,11 @@ function orderEntry() {
 orderEntry();
 
 function winner(ticket) {
-  const winnerTicket = order.find((elem) => elem == ticket);
-  return winnerTicket;
+  for (let i = 1; i <= order.length; i++) {
+    if ( ticket == order.indexOf(order[i])) {
+      return ticket;
+    }
+  }
+  return 0;
 }
-console.log(winner(10));
+console.log(winner(5));
