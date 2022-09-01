@@ -12,6 +12,7 @@ O Beecrowd é um repositório de problemas de programação. Os problemas são s
 | 2152         | [Link](beecrowd/logica/2152.md) | [JavaScript](beecrowd/codigo/2152.js) |
 | 2189         | [Link](beecrowd/logica/2189.md) | [JavaScript](beecrowd/codigo/2189.js) |
 | 2382         | [Link](beecrowd/logica/2382.md) | [JavaScript](beecrowd/codigo/2382.js) |
+| 2582         | [Link](beecrowd/logica/2582.md) | [JavaScript](beecrowd/codigo/2582.js) |
 | 3047         | [Link](beecrowd/logica/3047.md) | [JavaScript](beecrowd/codigo/3047.js) |
 | 3145         | [Link](beecrowd/logica/3145.md) | [JavaScript](beecrowd/codigo/3145.js) |
 
